@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\iwanp\\source\\repos\\demo-csharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83B04441-0F79-4424-AAD0-46E0C3CDDAA1}|WebGoat\\WebGoat.NET.csproj|c:\\users\\iwanp\\source\\repos\\demo-csharp\\webgoat\\app_themes\\default\\01.960_24_col.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{83B04441-0F79-4424-AAD0-46E0C3CDDAA1}|WebGoat\\WebGoat.NET.csproj|solutionrelative:webgoat\\app_themes\\default\\01.960_24_col.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83B04441-0F79-4424-AAD0-46E0C3CDDAA1}|WebGoat\\WebGoat.NET.csproj|c:\\users\\iwanp\\source\\repos\\demo-csharp\\webgoat\\app_code\\db\\sqlitedbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83B04441-0F79-4424-AAD0-46E0C3CDDAA1}|WebGoat\\WebGoat.NET.csproj|solutionrelative:webgoat\\app_code\\db\\sqlitedbprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01.960_24_col.css",
+              "DocumentMoniker": "C:\\Users\\iwanp\\source\\repos\\demo-csharp\\WebGoat\\App_Themes\\Default\\01.960_24_col.css",
+              "RelativeDocumentMoniker": "WebGoat\\App_Themes\\Default\\01.960_24_col.css",
+              "ToolTip": "C:\\Users\\iwanp\\source\\repos\\demo-csharp\\WebGoat\\App_Themes\\Default\\01.960_24_col.css",
+              "RelativeToolTip": "WebGoat\\App_Themes\\Default\\01.960_24_col.css",
+              "ViewState": "AgIAAJABAAAAAAAAAAAAAAkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-24T23:29:32.694Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -25,14 +42,18 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SqliteDbProvider.cs",
               "DocumentMoniker": "C:\\Users\\iwanp\\source\\repos\\demo-csharp\\WebGoat\\App_Code\\DB\\SqliteDbProvider.cs",
               "RelativeDocumentMoniker": "WebGoat\\App_Code\\DB\\SqliteDbProvider.cs",
               "ToolTip": "C:\\Users\\iwanp\\source\\repos\\demo-csharp\\WebGoat\\App_Code\\DB\\SqliteDbProvider.cs",
               "RelativeToolTip": "WebGoat\\App_Code\\DB\\SqliteDbProvider.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwGgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T23:25:35.066Z",
               "EditorCaption": ""
