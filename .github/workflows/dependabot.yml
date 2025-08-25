@@ -7,7 +7,7 @@ version: 2
 updates:
   # Uppdaterar NuGet-paket för ditt .NET-projekt
   - package-ecosystem: "nuget"
-    directory: "/" 
+    directory: "demo-csharp/WebGoat.NET.sln" 
     schedule:
       interval: "weekly" 
     commit-message:
